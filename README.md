@@ -1,10 +1,10 @@
 # SocialAuth
 
-#Version
+# Version
 
 1.0.0
 
-#Usage
+# Usage
 
 Add your app ID (https://developers.facebook.com/apps/)
 
